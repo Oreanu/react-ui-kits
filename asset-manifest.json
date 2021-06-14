@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-ui-kits/real_estate_ui/static/css/main.216282e1.chunk.css",
+    "main.js": "/react-ui-kits/real_estate_ui/static/js/main.91f39e1c.chunk.js",
+    "main.js.map": "/react-ui-kits/real_estate_ui/static/js/main.91f39e1c.chunk.js.map",
+    "runtime-main.js": "/react-ui-kits/real_estate_ui/static/js/runtime-main.bff948f0.js",
+    "runtime-main.js.map": "/react-ui-kits/real_estate_ui/static/js/runtime-main.bff948f0.js.map",
+    "static/js/2.be2c35b5.chunk.js": "/react-ui-kits/real_estate_ui/static/js/2.be2c35b5.chunk.js",
+    "static/js/2.be2c35b5.chunk.js.map": "/react-ui-kits/real_estate_ui/static/js/2.be2c35b5.chunk.js.map",
+    "static/js/3.5a7fa8a7.chunk.js": "/react-ui-kits/real_estate_ui/static/js/3.5a7fa8a7.chunk.js",
+    "static/js/3.5a7fa8a7.chunk.js.map": "/react-ui-kits/real_estate_ui/static/js/3.5a7fa8a7.chunk.js.map",
+    "index.html": "/react-ui-kits/real_estate_ui/index.html",
+    "static/css/main.216282e1.chunk.css.map": "/react-ui-kits/real_estate_ui/static/css/main.216282e1.chunk.css.map",
+    "static/js/2.be2c35b5.chunk.js.LICENSE.txt": "/react-ui-kits/real_estate_ui/static/js/2.be2c35b5.chunk.js.LICENSE.txt",
+    "static/media/cartoon_network.6f738535.svg": "/react-ui-kits/real_estate_ui/static/media/cartoon_network.6f738535.svg",
+    "static/media/dropbox.64546741.svg": "/react-ui-kits/real_estate_ui/static/media/dropbox.64546741.svg",
+    "static/media/logo.6ce24c58.svg": "/react-ui-kits/real_estate_ui/static/media/logo.6ce24c58.svg",
+    "static/media/menu.d87956d9.svg": "/react-ui-kits/real_estate_ui/static/media/menu.d87956d9.svg",
+    "static/media/netflix.a2b81d87.svg": "/react-ui-kits/real_estate_ui/static/media/netflix.a2b81d87.svg",
+    "static/media/slack.71f56381.svg": "/react-ui-kits/real_estate_ui/static/media/slack.71f56381.svg",
+    "static/media/toshiba.c09c667e.svg": "/react-ui-kits/real_estate_ui/static/media/toshiba.c09c667e.svg",
+    "static/media/yellow_quote.8bce85d2.svg": "/react-ui-kits/real_estate_ui/static/media/yellow_quote.8bce85d2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bff948f0.js",
+    "static/js/2.be2c35b5.chunk.js",
+    "static/css/main.216282e1.chunk.css",
+    "static/js/main.91f39e1c.chunk.js"
+  ]
+}
