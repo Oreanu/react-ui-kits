@@ -1,4 +1,3 @@
-# react-ui-kits
 # 🔥 🔥 Free React UI Kits developed by Oreanu
 
 The React UI Kits are implementations of various products designers. This Repo will be updated weekly with new beautiful UI Kits.
