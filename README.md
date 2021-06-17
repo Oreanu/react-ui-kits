@@ -12,3 +12,5 @@ Basic knowledge of HTML, CSS, JavaScript and React
 
 👨‍💻 Author
 The implementations are written by Oreanu Olayemi
+
+**Projects**
